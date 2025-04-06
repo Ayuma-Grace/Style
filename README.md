@@ -1,4 +1,5 @@
 #External CSS Styling for Web Page
+
 This project demonstrates the use of external CSS to style an HTML document, focusing on the effective use of selectors, colors, fonts, margins, padding, and borders to improve the aesthetics and readability of a webpage.
 Description
 The objective of this project was to create a well-styled HTML page by linking an external CSS file. The page was styled using a combination of classes, IDs, and element selectors to apply colors, fonts, and spacing effectively.
